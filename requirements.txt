@@ -14,3 +14,12 @@ langchain-groq>=0.2.0
 # Jupyter Environment
 jupyter>=1.0.0
 ipykernel>=6.29.0
+
+# NLP, Vectorization & Embeddings (Modulo 2)
+scikit-learn>=1.3.0
+sentence-transformers>=2.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+numpy>=1.24.0
+
